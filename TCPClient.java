@@ -1,3 +1,10 @@
+/* Developed by:
+ * Emmanuel Giah (ECG180001)
+ * Pouria Mohseninejad (PXM220043)
+ * Emmanuel Asante (EFA190000)
+ * Date: November 1, 2023
+ * Class: CS 4390.003
+ */
 // import java.net.*;
 // import java.io.*;
 
